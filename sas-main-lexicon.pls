@@ -9,7 +9,7 @@
     <phoneme>hɛ.loˈ</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>SAS </grapheme>
+    <grapheme>SAS</grapheme>
     <phoneme>sæs</phoneme>
   </lexeme>
 </lexicon>
